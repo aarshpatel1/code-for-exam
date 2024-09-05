@@ -1,7 +1,7 @@
 #include <stdio.h>
 #define MAX 100
-int main()
 
+int main()
 {
     int n, arr[MAX];
     long long product = 1;

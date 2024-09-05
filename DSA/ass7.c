@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main()
 {
     char arr[] = {'H', 'e', 'l', 'l', 'o', ' ', 'W', 'o', 'r', 'l', 'd'};
