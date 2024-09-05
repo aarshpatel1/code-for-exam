@@ -17,11 +17,9 @@ int main()
     {
         printf("Element %d: ", i + 1);
         scanf("%d", &arr[i]);
-    }
-    for (int i = 0; i < n; i++)
-    {
         product *= arr[i];
     }
+
     printf("The product of the array elements is: %lld\n", product);
     return 0;
 }
